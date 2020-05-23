@@ -1,6 +1,5 @@
-
 #Aliases
 alias lg='git add -A && git commit -m'
 alias lss='ls -lah'
 alias gc='git clone'
- 
+alias gstat='git status'
